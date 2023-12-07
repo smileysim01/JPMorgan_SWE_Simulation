@@ -1,1 +1,1 @@
-# JPMorgan_SWE_Simulation
+# JPMorgan_SWE_Simulation## Task 1: 1. Set up the local dev environment by downloading the necessary files, tools and dependencies.2. Fix the broken client datafeed script in the repository by making the required adjustments to it.4. Add unit tests in the test script in the repository.
